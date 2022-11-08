@@ -4,11 +4,25 @@ background-color: rgb(194,149,110);
 }
 h1
 {
-  color: rgb(43,33,41);
+  color: #708a81;
   text-align: center;
-  font-size: 38pt;
+  font-size: 48pt;
 }
+section h2
+{
+ font-size: 28pt;
+}  
 ul
 {
- font-size: 18pt; 
+ font-size: 18pt;
+}
+.date
+{
+  font-color:#e5d1b8;
+}
+nav a
+{
+  font-size:20pt
+  font-weight:bold;
+  color:#e5d1b8;
 }
