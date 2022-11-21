@@ -4,6 +4,7 @@ background-color: rgb(194,149,110);
 }
 h1
 {
+  font-size: 3vmax;
   text-decoration: underline;
   color: rgb(43,33,41)
 }
@@ -14,4 +15,8 @@ ul
 img.mainlogo
 {
  width:40vmax
+}
+p
+{
+  font-size: 2vmax;
 }
