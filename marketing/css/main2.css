@@ -22,7 +22,7 @@ section
 }
 ul
 {
- font-size: 18pt;
+ font-size: 16pt;
  font-color: rgb(155,162,111);
 }
 .date
@@ -39,5 +39,5 @@ nav a
 }
 p
 {
-  font-size:30pt;
+  font-size:20pt;
 }
