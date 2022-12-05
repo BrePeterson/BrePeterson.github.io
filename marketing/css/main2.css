@@ -1,10 +1,10 @@
 body
 {
-background-color: rgb(194,149,110);
+background-color: rgb(253,244,218);
 }
 h1
 {
-  color: #708a81;
+  color: rgb(155,162,111);
   text-align: center;
   font-size: 48pt;
 }
@@ -15,7 +15,7 @@ section h2
 } 
 section
 {
- border: 3px solid black;
+ border: 3px solid rgb(186,163,150);
  margin-top:35px;
  margin-bottom:35px;
  padding:10px;
