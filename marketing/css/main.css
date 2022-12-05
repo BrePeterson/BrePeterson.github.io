@@ -1,14 +1,14 @@
 body
 {
 background-color: rgb(253,244,218);
-  font-family: Helvetica, Calibri, Arial, sans-serif;
+font-family: Helvetica, Calibri, Arial, sans-serif;
 }
 h1
 {
   font-size: 3vmax;
   text-decoration: underline;
-  color: rgb(43,33,41)
-    font-family: Helvetica, Calibri, Arial, sans-serif;
+  color: rgb(155,162,111);
+  font-family: Helvetica, Calibri, Arial, sans-serif;
 }
 ul
 {
@@ -17,10 +17,10 @@ ul
 }
 img.mainlogo
 {
- width:2vmax
+ width:5vmax;
 }
 p
 {
-  font-size: 5vmax;
+  font-size: 2vmax;
   font-family: Helvetica, Calibri, Arial, sans-serif;
 }
